@@ -6,8 +6,6 @@ Professor son:
 2. Ermengol
 3. Alvaro
 4. Pol
-5. Sergi
-6. Yoli
 
 
 ### Assignaturas
